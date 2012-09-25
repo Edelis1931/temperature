@@ -9,6 +9,7 @@ package temperature;
 import static org.junit.Assert.*;
 import org.junit.*;
 
+/*in this testcase, random values are chosen to ensure the program can deal with any kind of situations*/
 
 
 public class TempTest {
